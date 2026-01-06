@@ -1,4 +1,7 @@
-#  I’m Om Chaugule: <br>
+#                                                                                            <h1 align="center"> I'm Om Chaugule</h1>
+
+# <p align="center"><br>Computer Engineering student<br> Curious about tech, coding & problem-solving <br>Learning every day, building step by step <br> Debugging life one bug at a time </p>
+
 
 <br><br>I’m currently working on<br>AI-based projects and hackathon ideas, especially applications that solve real-world problems using smart automation.<br><br>I’m looking to collaborate on<br>Hackathons, AI/ML projects, and beginner-to-intermediate open-source projects where learning by building matters more than perfection.<br><br>I’m looking for help with<br>System design basics, deploying AI models, and improving problem-solving skills for competitive programming and interviews.<br><br>I’m currently learning<br>Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and practical software engineering concepts.<br><br>Ask me about<br>Python, AI tools, GitHub, hackathons, and how to get started as a college student in tech.<br><br>Fun fact<br>I trust bugs to be my most honest teachers—they always tell me exactly what I don’t understand yet.
 
